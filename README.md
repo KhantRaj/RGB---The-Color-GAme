@@ -1,6 +1,6 @@
 # RGB---The-Color-GAme
 
-https://user-images.githubusercontent.com/30567608/29748079-0f075ad0-8b0e-11e7-9f39-96324ebe9136.gif
+![7](https://user-images.githubusercontent.com/77373424/199015460-f5eeb435-57f2-489b-84dd-9d1e3d7fef53.gif)
 
 The RGB game is project where there are two modes of game easy and hard. This project generates the every new RGB color code and according to the code we need to find out the color that are displayed below. In easy mode there are three color box where as in hard mode there is an 6 boxes from which the correct color box has to selected according to the RGB code.
 
